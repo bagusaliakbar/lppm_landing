@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>LPPM Universitas Subang</title>
 
-    <!-- Meta SEO -->
     <meta name="description" content="Lembaga Penelitian dan Pengabdian Kepada Masyarakat (LPPM) Universitas Subang.">
 
     @vite(['resources/css/app.css', 'resources/js/app.js'])
